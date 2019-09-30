@@ -1,0 +1,15 @@
+body {
+    background-color: lightskyblue;
+    margin: 0px;
+
+/* style untuk heading - BEGIN */
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoratiion: underline ;
+}
+h3{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*style untuk heading - END */

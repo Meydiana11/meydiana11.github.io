@@ -1,0 +1,10 @@
+body {
+    background-color: lightgoldenrodyellow;
+    margin: 0px;
+
+/* style untuk heading - BEGIN */
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoratiion: underline ;
+}
